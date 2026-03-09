@@ -69,8 +69,8 @@ santa-workshop-solver/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/santa-workshop-solver.git
-cd santa-workshop-solver
+git clone https://github.com/davitg-003/Santa_kaggle.git
+cd Santa_kaggle
 ```
 
 2. Install Python (Python 3.9+ recommended)
@@ -122,9 +122,3 @@ BEST COST: 70810
 * Hyperparameter tuning
 
 ---
-
-## 👨‍💻 Author
-
-Davit Gyagunts
-
-Machine Learning / AI enthusiast interested in optimization algorithms and large-scale scheduling problems.
